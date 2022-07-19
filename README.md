@@ -1,2 +1,0 @@
-# typora
-theme for typora
